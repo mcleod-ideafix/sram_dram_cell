@@ -5,6 +5,7 @@ Project made using EasyEDA, ready for JLCPCB.
 
 # 3D model and actual pictures
 ![3D model](/pictures/placa_3d.png)
+![actual picture of a board](/pictures/IMG_2871.jpg)
 
 # How to use it
 To operate the SRAM cell, press and release the button for the value you want to store (0 or 1) and then, press and release the WE (write enable) button to accept the new value into the cell.
