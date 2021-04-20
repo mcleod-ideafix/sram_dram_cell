@@ -3,6 +3,9 @@ A schematic for a SRAM and a DRAM memory cell. Made just for didactic purposes.
 Uses MOSFET transistors and the same traditional 6T configuration for SRAM. For DRAM, the circuit is not exactly the same as in standard DRAM cells.
 Project made using EasyEDA, ready for JLCPCB.
 
+# 3D model and actual pictures
+![3D model](/pictures/placa_3d.png)
+
 # How to use it
 To operate the SRAM cell, press and release the button for the value you want to store (0 or 1) and then, press and release the WE (write enable) button to accept the new value into the cell.
 The value will stay at the SRAM OUT led as long as power supply is applied, just as in an actual SRAM memory.
